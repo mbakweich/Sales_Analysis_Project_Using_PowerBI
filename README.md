@@ -8,7 +8,7 @@ The objective is to develop a comprehensive system for tracking key performance 
 
 ### Data Source
 
-The data originates from a collection of raw CSV files containing transactional, product, customer, and territory information. The raw data files are stored in a folder for easy access [FOLDER]()
+The data originates from a collection of raw CSV files containing transactional, product, customer, and territory information. The raw data files are stored in a folder for easy access [FOLDER](https://github.com/mbakweich/Sales_Analysis_Project_Using_PowerBI/blob/2c7e919ce0980003434e5a2945004dde38b4ad36/PBI%20Dataset.zip)
 
 ### Tools Utilized
 
